@@ -12,7 +12,7 @@ author: Brita de Iro
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Sobre: "sobre"
+  Sobre: "https://britadeiro.github.io/sobre/"
   Projetos:
     - Projeto 1: "#"
     - Projeto 2: "#"
