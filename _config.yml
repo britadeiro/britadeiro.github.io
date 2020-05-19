@@ -4,7 +4,7 @@
 title: Brita ✪
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Brita ✪, por Brita de Iro
 
 # Your name to show in the footer
 author: Brita de Iro
@@ -12,11 +12,14 @@ author: Brita de Iro
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Sobre: "sobre"
+  Projetos:
+    - Projeto 1: "#"
+    - Projeto 2: "#"
+    - Projeto 3: "#"
+  Links:
+    - Twitter: "https://twitter.com/britadeiro"
+    - Reddit: "https://www.reddit.com/r/britadeiro/"
 
 # --- Logo --- #
 
