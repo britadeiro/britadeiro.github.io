@@ -47,6 +47,7 @@ social-network-links:
   twitter: britadeiro
   rss: true
   reddit: britadeiro
+  telegram: example
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -58,7 +59,6 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-   telegram: example
 #  calendly: yourname
 
 # --- General options --- #
