@@ -1,30 +1,38 @@
 ---
 layout: page
-title: Sobre
-subtitle: Informações sobre Brita de Iro
+title: Britadeiro
+subtitle: O codinome é Britadeiro, mas pode chamar de Brita
 ---
 
-Meu nome é Brita de Iro e o **Brita ✪** é o meu website.
-
-### Autor
+## Sobre o autor
 
 O codinome é **Britadeiro**, mas pode chamar de *Brita*.
 
-#### Links
+## Sobre o website
+
+### Blog
+
+### Projetos
+
+* [Pi-Hole BR]
+
+## Outros canais
 
 * [Twitter](#)
 * [Reddit](#)
 * [Telegram](#)
 * [GitHub](#)
 
-### Website
+---
 
-asdf
-
-#### Tecnologia
+#### Créditos
 
 Este website é provido por tecnologias gratuitas e de código aberto:
 
-* [GitHub](https://github.com/)
-* [Jekyll](https://jekyllrb.com/)
-* [Beautiful](https://beautifuljekyll.com/)
+* **Tecnologia**
+  * [GitHub](https://github.com/)
+  * [Jekyll](https://jekyllrb.com/)
+  * [Beautiful](https://beautifuljekyll.com/)
+* **Gráficos**
+  * [Unsplash](#)
+  * [Pexels](#)
