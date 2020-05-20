@@ -12,7 +12,7 @@ author: Britadeiro
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Sobre: "https://britadeiro.github.io/sobre/"
+  Artigos: "https://britadeiro.github.io/blog/"
   Projetos:
     - Projeto 1: "#"
     - Projeto 2: "#"
